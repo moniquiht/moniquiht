@@ -1,5 +1,4 @@
-## Hola soy Mónica, estudiante de Ciencia de Datos Aplicada en la UCM. src="https://img.shields.io/twitter/follow/dadosdelaplace?style=social&logo=twitter"
-            alt="Sígueme en Twitter (follow on Twitter)"></a>
+## Hola soy Mónica, estudiante de Ciencia de Datos Aplicada en la UCM.
 
 <!--
 **moniquiht/moniquiht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
